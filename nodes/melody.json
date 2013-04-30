@@ -1,0 +1,10 @@
+{
+	"rbenv" : {
+		"group_users": "vagrant",
+		"install_prefix": "/usr/local"
+	},
+	"ruby_build" : {
+		"prefix": "/usr/local"
+	},
+  "run_list": ["ruby"]
+}
